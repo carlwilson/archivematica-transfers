@@ -1,0 +1,16 @@
+[
+  {
+    "dc.title": "Title",
+    "dc.identifier": "1",
+    "filename": "objects/text-file.txt",
+    "dc.description": "Description",
+    "dc.format": "text/plain"
+  },
+  {
+    "dc.title": "Title2",
+    "dc.identifier": "2",
+    "filename": "objects/text-file2.txt",
+    "dc.description": "Description2",
+    "dc.format": "text/plain"
+  }
+]

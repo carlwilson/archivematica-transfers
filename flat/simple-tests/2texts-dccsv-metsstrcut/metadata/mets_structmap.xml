@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/">
+  <mets:structMap TYPE="logical" ID="structMap_1">
+    <mets:div TYPE="file" LABEL="Simple test SIP">
+      <mets:div TYPE="item" LABEL="Test Text Item">
+        <mets:fptr FILEID="text-file.txt"/>
+      </mets:div>
+      <mets:div TYPE="item" LABEL="Test Text Item2">
+        <mets:fptr FILEID="text-file2.txt"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>
