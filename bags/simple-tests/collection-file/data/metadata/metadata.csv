@@ -1,0 +1,5 @@
+filename,dc.identifier,dc.title,dc.description,dc.date,dc.format
+data/objects/CFW-01-Series/2018/text-file.txt,1,Title,Description,"2018/11/25",text/plain
+data/objects/CFW-01-Series/2018,4,2018,File 2018,"2018/11/25",
+data/objects/CFW-01-Series/,3,CFW01Series,Series CFW01,"2018/11/25",
+data/objects/CFW-01-Series/2018/text-file2.txt,2,Title2,Description2,"2018/11/25",text/plain

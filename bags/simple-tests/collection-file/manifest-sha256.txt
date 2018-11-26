@@ -1,0 +1,4 @@
+259a9a01a247f82d6b3dc9c36648b0965211c52b8dd7c70bdce13321a9215d58  data/metadata/metadata.csv
+acddd4228cfe28ba81196cdee6a72666e45b611856e4f30d8a3c997991eb1a76  data/metadata/mets_structmap.xml
+f2ca1bb6c7e907d06dafe4687e579fce76b37e4e93b7605022da52e6ccc26fd2  data/objects/CFW-01-Series/2018/text-file2.txt
+f2ca1bb6c7e907d06dafe4687e579fce76b37e4e93b7605022da52e6ccc26fd2  data/objects/CFW-01-Series/2018/text-file.txt

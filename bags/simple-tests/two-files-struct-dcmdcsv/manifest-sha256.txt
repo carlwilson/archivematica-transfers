@@ -1,0 +1,4 @@
+3d32b639ccb118e0b167fcbc174dc18a2acd176df9f87bd2482c7cc8ca905a0a  data/metadata/metadata.csv
+0ab4495a8fcb21e2e8f557394ba0764cd573eb8e86ff4b2f5fceb0fb2f499d14  data/metadata/mets_structmap.xml
+f2ca1bb6c7e907d06dafe4687e579fce76b37e4e93b7605022da52e6ccc26fd2  data/objects/text-file2.txt
+f2ca1bb6c7e907d06dafe4687e579fce76b37e4e93b7605022da52e6ccc26fd2  data/objects/text-file.txt
